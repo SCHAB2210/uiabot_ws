@@ -1,0 +1,2 @@
+[console_scripts]
+cmd_vel_publisher = my_publisher_package.cmd_vel_publisher:main

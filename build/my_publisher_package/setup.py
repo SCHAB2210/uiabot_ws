@@ -1,0 +1,1 @@
+/home/devtex/uiabot_ws/src/my_publisher_package/setup.py

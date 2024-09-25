@@ -1,0 +1,5 @@
+[0.009s] Invoking command in '/home/devtex/uiabot_ws/build/articubot_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/articubot_one -- -j32 -l32
+[0.019s] [0mCMake Error: The source directory "/home/devtex/uiabot_ws/src/uiabot/articubot_one" does not exist.
+[0.019s] Specify --help for usage, or press the help button on the CMake GUI.[0m
+[0.019s] gmake: *** [Makefile:226: cmake_check_build_system] Error 1
+[0.103s] Invoked command in '/home/devtex/uiabot_ws/build/articubot_one' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/articubot_one -- -j32 -l32

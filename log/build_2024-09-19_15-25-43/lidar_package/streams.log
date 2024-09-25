@@ -1,0 +1,46 @@
+[0.604s] Invoking command in '/home/devtex/uiabot_ws/build/lidar_package': PYTHONPATH=/home/devtex/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/devtex/uiabot_ws/build/lidar_package/build
+[0.755s] running develop
+[0.755s] /home/devtex/.local/lib/python3.10/site-packages/setuptools/command/develop.py:40: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.755s] !!
+[0.755s] 
+[0.755s]         ********************************************************************************
+[0.755s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.756s]         Instead, use pypa/build, pypa/installer or other
+[0.756s]         standards-based tools.
+[0.756s] 
+[0.756s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.756s]         ********************************************************************************
+[0.756s] 
+[0.756s] !!
+[0.756s]   easy_install.initialize_options(self)
+[0.860s] Removing /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar-package.egg-link (link to .)
+[0.877s] Invoked command in '/home/devtex/uiabot_ws/build/lidar_package' returned '0': PYTHONPATH=/home/devtex/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/devtex/uiabot_ws/build/lidar_package/build
+[0.877s] Invoking command in '/home/devtex/uiabot_ws/src/lidar_package': PYTHONPATH=/home/devtex/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_package build --build-base /home/devtex/uiabot_ws/build/lidar_package/build install --record /home/devtex/uiabot_ws/build/lidar_package/install.log --single-version-externally-managed install_data --force
+[0.983s] running egg_info
+[0.990s] writing ../../build/lidar_package/lidar_package.egg-info/PKG-INFO
+[0.990s] writing dependency_links to ../../build/lidar_package/lidar_package.egg-info/dependency_links.txt
+[0.990s] writing entry points to ../../build/lidar_package/lidar_package.egg-info/entry_points.txt
+[0.990s] writing requirements to ../../build/lidar_package/lidar_package.egg-info/requires.txt
+[0.990s] writing top-level names to ../../build/lidar_package/lidar_package.egg-info/top_level.txt
+[1.004s] reading manifest file '../../build/lidar_package/lidar_package.egg-info/SOURCES.txt'
+[1.004s] writing manifest file '../../build/lidar_package/lidar_package.egg-info/SOURCES.txt'
+[1.004s] running build
+[1.004s] running build_py
+[1.004s] copying lidar_package/lidar_node.py -> /home/devtex/uiabot_ws/build/lidar_package/build/lib/lidar_package
+[1.004s] copying lidar_package/__init__.py -> /home/devtex/uiabot_ws/build/lidar_package/build/lib/lidar_package
+[1.004s] running install
+[1.007s] running install_lib
+[1.013s] creating /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package
+[1.013s] copying /home/devtex/uiabot_ws/build/lidar_package/build/lib/lidar_package/lidar_node.py -> /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package
+[1.014s] copying /home/devtex/uiabot_ws/build/lidar_package/build/lib/lidar_package/__init__.py -> /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package
+[1.014s] byte-compiling /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package/lidar_node.py to lidar_node.cpython-310.pyc
+[1.014s] byte-compiling /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package/__init__.py to __init__.cpython-310.pyc
+[1.014s] running install_data
+[1.014s] copying resource/lidar_package -> /home/devtex/uiabot_ws/install/lidar_package/share/ament_index/resource_index/packages
+[1.014s] copying package.xml -> /home/devtex/uiabot_ws/install/lidar_package/share/lidar_package
+[1.014s] running install_egg_info
+[1.022s] Copying ../../build/lidar_package/lidar_package.egg-info to /home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages/lidar_package-0.0.0-py3.10.egg-info
+[1.022s] running install_scripts
+[1.090s] Installing lidar_node script to /home/devtex/uiabot_ws/install/lidar_package/lib/lidar_package
+[1.090s] writing list of installed files to '/home/devtex/uiabot_ws/build/lidar_package/install.log'
+[1.103s] Invoked command in '/home/devtex/uiabot_ws/src/lidar_package' returned '0': PYTHONPATH=/home/devtex/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_package build --build-base /home/devtex/uiabot_ws/build/lidar_package/build install --record /home/devtex/uiabot_ws/build/lidar_package/install.log --single-version-externally-managed install_data --force

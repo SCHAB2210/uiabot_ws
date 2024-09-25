@@ -1,0 +1,36 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/config/empty.yaml
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/AssemUiAminibot2 .STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/Motor.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/MotorBracket.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/RP-lidar-A1.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/RPLidarCasingV3_Wcut.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/SupportWheelBracket_v03.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/UiAFullWafflePlate.STL
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/camera.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/depth_camera.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/face.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/gazebo_control.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/lidar.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/robot_core.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/ros2_control.xacro
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/launch/rsp.launch.py
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/worlds/empty.world
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/package_run_dependencies/uiabot
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/parent_prefix_path/uiabot
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/path.sh
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/path.dsv
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.bash
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.sh
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.zsh
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.dsv
+-- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/package.dsv
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/packages/uiabot
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/cmake/uiabotConfig.cmake
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/cmake/uiabotConfig-version.cmake
+-- Up-to-date symlink: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/package.xml

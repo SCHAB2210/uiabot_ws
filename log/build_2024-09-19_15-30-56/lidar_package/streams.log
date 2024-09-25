@@ -1,0 +1,43 @@
+[0.615s] Invoking command in '/home/devtex/uiabot_ws/build/lidar_package': PYTHONPATH=/home/devtex/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/devtex/uiabot_ws/install/lidar_package/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/devtex/uiabot_ws/build/lidar_package/build
+[0.692s] /home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.692s]   warnings.warn(msg)
+[0.762s] running develop
+[0.762s] /home/devtex/.local/lib/python3.10/site-packages/setuptools/command/develop.py:41: EasyInstallDeprecationWarning: easy_install command is deprecated.
+[0.762s] !!
+[0.762s] 
+[0.762s]         ********************************************************************************
+[0.762s]         Please avoid running ``setup.py`` and ``easy_install``.
+[0.762s]         Instead, use pypa/build, pypa/installer or other
+[0.762s]         standards-based tools.
+[0.762s] 
+[0.762s]         See https://github.com/pypa/setuptools/issues/917 for details.
+[0.762s]         ********************************************************************************
+[0.762s] 
+[0.762s] !!
+[0.762s]   easy_install.initialize_options(self)
+[0.770s] Traceback (most recent call last):
+[0.770s]   File "/home/devtex/uiabot_ws/build/lidar_package/setup.py", line 5, in <module>
+[0.770s]     setup(
+[0.770s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/__init__.py", line 117, in setup
+[0.770s]     return distutils.core.setup(**attrs)
+[0.770s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 183, in setup
+[0.770s]     return run_commands(dist)
+[0.770s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/core.py", line 199, in run_commands
+[0.770s]     dist.run_commands()
+[0.770s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 954, in run_commands
+[0.770s]     self.run_command(cmd)
+[0.770s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/dist.py", line 950, in run_command
+[0.771s]     super().run_command(command)
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/dist.py", line 972, in run_command
+[0.771s]     cmd_obj.ensure_finalized()
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py", line 111, in ensure_finalized
+[0.771s]     self.finalize_options()
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/command/develop.py", line 51, in finalize_options
+[0.771s]     easy_install.finalize_options(self)
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/command/easy_install.py", line 253, in finalize_options
+[0.771s]     'dist_fullname': self.distribution.get_fullname(),
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 267, in get_fullname
+[0.771s]     return _distribution_fullname(self.get_name(), self.get_version())
+[0.771s]   File "/home/devtex/.local/lib/python3.10/site-packages/setuptools/_core_metadata.py", line 285, in _distribution_fullname
+[0.771s]     canonicalize_version(version, strip_trailing_zero=False),
+[0.771s] TypeError: canonicalize_version() got an unexpected keyword argument 'strip_trailing_zero'

@@ -1,0 +1,53 @@
+[0.301s] Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/devtex/uiabot_ws/src/uiabot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/devtex/uiabot_ws/install/uiabot
+[0.308s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.371s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.375s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[0.410s] -- Added test 'copyright' to check source files copyright and LICENSE
+[0.414s] -- Added test 'flake8' to check Python code syntax and style conventions
+[0.414s] -- Added test 'lint_cmake' to check CMake code style
+[0.415s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[0.416s] -- Added test 'xmllint' to check XML markup files
+[0.417s] -- Configuring done
+[0.418s] -- Generating done
+[0.418s] -- Build files have been written to: /home/devtex/uiabot_ws/build/uiabot
+[0.420s] Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake /home/devtex/uiabot_ws/src/uiabot -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/devtex/uiabot_ws/install/uiabot
+[0.421s] Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/uiabot -- -j32 -l32
+[0.439s] Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/uiabot -- -j32 -l32
+[0.455s] Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/devtex/uiabot_ws/build/uiabot
+[0.458s] -- Install configuration: ""
+[0.458s] -- Execute custom install script
+[0.458s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/config/empty.yaml
+[0.462s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/AssemUiAminibot2 .STL
+[0.466s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/Motor.STL
+[0.470s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/MotorBracket.STL
+[0.474s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/RP-lidar-A1.STL
+[0.478s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/RPLidarCasingV3_Wcut.STL
+[0.482s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/SupportWheelBracket_v03.STL
+[0.486s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/UiAFullWafflePlate.STL
+[0.490s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/camera.xacro
+[0.494s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/depth_camera.xacro
+[0.498s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/face.xacro
+[0.502s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/gazebo_control.xacro
+[0.507s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/inertial_macros.xacro
+[0.512s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/lidar.xacro
+[0.516s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/robot.urdf.xacro
+[0.520s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/robot_core.xacro
+[0.524s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/description/ros2_control.xacro
+[0.528s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/launch/rsp.launch.py
+[0.531s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/worlds/empty.world
+[0.535s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/package_run_dependencies/uiabot
+[0.539s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/parent_prefix_path/uiabot
+[0.543s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/ament_prefix_path.sh
+[0.547s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/ament_prefix_path.dsv
+[0.551s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/path.sh
+[0.555s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/environment/path.dsv
+[0.560s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.bash
+[0.564s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.sh
+[0.568s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.zsh
+[0.574s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/local_setup.dsv
+[0.580s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/package.dsv
+[0.585s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/ament_index/resource_index/packages/uiabot
+[0.592s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/cmake/uiabotConfig.cmake
+[0.597s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/cmake/uiabotConfig-version.cmake
+[0.601s] -- Symlinking: /home/devtex/uiabot_ws/install/uiabot/share/uiabot/package.xml
+[0.606s] Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/home/devtex/interbotix_ws/install/interbotix_xs_modules:/home/devtex/interbotix_ws/install/interbotix_perception_modules:/home/devtex/interbotix_ws/install/interbotix_common_modules:/opt/ros/humble /usr/bin/cmake --install /home/devtex/uiabot_ws/build/uiabot
