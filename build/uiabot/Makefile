@@ -57,7 +57,7 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/devtex/uiabot_ws/src/uiabot
+CMAKE_SOURCE_DIR = /home/devtex/uiabot_ws/src/robot_description
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = /home/devtex/uiabot_ws/build/uiabot

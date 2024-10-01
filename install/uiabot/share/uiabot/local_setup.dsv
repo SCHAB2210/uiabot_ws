@@ -1,1 +1,2 @@
-/home/devtex/uiabot_ws/build/uiabot/ament_cmake_environment_hooks/local_setup.dsv
+source;share/uiabot/environment/ament_prefix_path.sh
+source;share/uiabot/environment/path.sh

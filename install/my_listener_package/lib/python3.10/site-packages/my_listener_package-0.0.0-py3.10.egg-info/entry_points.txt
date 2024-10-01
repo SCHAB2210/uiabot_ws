@@ -1,0 +1,2 @@
+[console_scripts]
+cmd_vel_listener = my_listener_package.cmd_vel_listener:main

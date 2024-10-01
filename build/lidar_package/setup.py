@@ -1,1 +1,0 @@
-/home/devtex/uiabot_ws/src/lidar_package/setup.py

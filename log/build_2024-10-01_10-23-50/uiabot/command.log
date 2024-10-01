@@ -1,0 +1,6 @@
+Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devtex/uiabot_ws/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/devtex/uiabot_ws/install/uiabot
+Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/devtex/uiabot_ws/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/devtex/uiabot_ws/install/uiabot
+Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/uiabot -- -j32 -l32
+Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/devtex/uiabot_ws/build/uiabot -- -j32 -l32
+Invoking command in '/home/devtex/uiabot_ws/build/uiabot': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devtex/uiabot_ws/build/uiabot
+Invoked command in '/home/devtex/uiabot_ws/build/uiabot' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/devtex/uiabot_ws/build/uiabot
