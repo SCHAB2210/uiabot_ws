@@ -17,6 +17,7 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/depth_camera.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
+/home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/launch_sim.launch.py
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/worlds/empty.world
 /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
 /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
