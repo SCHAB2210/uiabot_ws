@@ -1,4 +1,5 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
+/home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/face.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/ros2_control.xacro

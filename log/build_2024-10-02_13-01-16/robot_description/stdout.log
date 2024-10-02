@@ -1,0 +1,50 @@
+-- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'flake8' to check Python code syntax and style conventions
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/devtex/uiabot_ws/build/robot_description
+-- Install configuration: ""
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/face.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/ros2_control.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/Motor.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/gazebo_control.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/SupportWheelBracket_v03.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/robot.urdf.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/RPLidarCasingV3_Wcut.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/AssemUiAminibot2 .STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/UiAFullWafflePlate.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/lidar.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/robot_core.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/inertial_macros.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/camera.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/depth_camera.xacro
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/worlds
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/worlds/empty.world
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/environment/path.sh
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/environment/path.dsv
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/local_setup.bash
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/local_setup.sh
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/local_setup.zsh
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/local_setup.dsv
+-- Installing: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/package.dsv
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+-- Up-to-date: /home/devtex/uiabot_ws/install/robot_description/share/robot_description/package.xml
