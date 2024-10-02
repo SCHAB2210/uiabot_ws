@@ -1,3 +1,4 @@
+/home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/my_controllers.yaml
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
@@ -13,7 +14,9 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/robot_core.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/inertial_macros.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
+/home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/launch_robot.launch.py
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
+/home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/rplidar.launch.py
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/launch_sim.launch.py
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/worlds/empty.world
 /home/devtex/uiabot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
