@@ -15,9 +15,9 @@ class CarKeyboardControl(Node):
         # Car-like control parameters
         self.linear_speed = 0.0
         self.angular_speed = 0.0
-        self.max_linear_speed = 5.0  # Max forward/backward speed
-        self.max_angular_speed = 5.0  # Max turning speed
-        self.linear_acceleration = 0.01  # Acceleration step size
+        self.max_linear_speed = 10.0  # Max forward/backward speed
+        self.max_angular_speed = 10.0  # Max turning speed
+        self.linear_acceleration = 0.2  # Acceleration step size
         self.angular_acceleration = 0.1  # Turning step size
 
         # Print the teleop keyboard help message
@@ -30,8 +30,8 @@ This node takes keypresses from the keyboard and publishes them
 as Twist messages to control the robot. It works best with a US keyboard layout.
 ---------------------------
 Moving around:
-   w : backward
-   s : forward
+   w : forward
+   s : backward
    a : turn left
    d : turn right
    space : execute special command
@@ -67,18 +67,24 @@ currently:  speed {0:.1f}  turn {1:.1f}
             while rclpy.ok():
                 key = self.get_key()
                 if key == 'w':
-                    self.linear_speed = max(self.linear_speed - self.linear_acceleration, -self.max_linear_speed)
-                elif key == 's':
+                    # Move forward (positive linear velocity)
                     self.linear_speed = min(self.linear_speed + self.linear_acceleration, self.max_linear_speed)
+                elif key == 's':
+                    # Move backward (negative linear velocity)
+                    self.linear_speed = max(self.linear_speed - self.linear_acceleration, -self.max_linear_speed)
                 elif key == 'a':
+                    # Turn left
                     self.angular_speed = min(self.angular_speed + self.angular_acceleration, self.max_angular_speed)
                 elif key == 'd':
+                    # Turn right
                     self.angular_speed = max(self.angular_speed - self.angular_acceleration, -self.max_angular_speed)
                 elif key == ' ':
+                    # Stop the robot
                     os.system("ros2 topic pub --once /cmd_vel geometry_msgs/msg/Twist '{linear: {x: 0.0, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}'")
                 elif key == '\x03':  # CTRL-C
                     break
                 else:
+                    # Stop the robot
                     self.linear_speed = 0.0
                     self.angular_speed = 0.0
 
