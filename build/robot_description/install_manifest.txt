@@ -1,7 +1,6 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
-/home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/face.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/ros2_control.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/Motor.STL
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/gazebo_control.xacro
@@ -13,8 +12,6 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/lidar.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/robot_core.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/inertial_macros.xacro
-/home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/camera.xacro
-/home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/depth_camera.xacro
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/launch/launch_sim.launch.py
