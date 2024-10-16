@@ -7,8 +7,8 @@ setup.py
 ../../build/launch_package/launch_package.egg-info/requires.txt
 ../../build/launch_package/launch_package.egg-info/top_level.txt
 ../../build/launch_package/launch_package.egg-info/zip-safe
+launch/robot_launch.py
 launch_package/__init__.py
-launch_package/robot_launch.py
 resource/launch_package
 test/test_copyright.py
 test/test_flake8.py
