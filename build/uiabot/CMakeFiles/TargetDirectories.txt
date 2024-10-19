@@ -1,9 +1,0 @@
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/uninstall.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/uiabot_uninstall.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/test.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/edit_cache.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/rebuild_cache.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/list_install_components.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/install.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/install/local.dir
-/home/devtex/uiabot_ws/build/uiabot/CMakeFiles/install/strip.dir

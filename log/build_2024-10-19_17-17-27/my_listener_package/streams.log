@@ -1,0 +1,21 @@
+[2.548s] Invoking command in '/home/uiabot/uiabot_ws/src/my_listener_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/my_listener_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/my_listener_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_listener_package build --build-base /home/uiabot/uiabot_ws/build/my_listener_package/build install --record /home/uiabot/uiabot_ws/build/my_listener_package/install.log --single-version-externally-managed install_data
+[2.948s] running egg_info
+[2.973s] writing ../../build/my_listener_package/my_listener_package.egg-info/PKG-INFO
+[2.974s] writing dependency_links to ../../build/my_listener_package/my_listener_package.egg-info/dependency_links.txt
+[2.975s] writing entry points to ../../build/my_listener_package/my_listener_package.egg-info/entry_points.txt
+[2.976s] writing requirements to ../../build/my_listener_package/my_listener_package.egg-info/requires.txt
+[2.977s] writing top-level names to ../../build/my_listener_package/my_listener_package.egg-info/top_level.txt
+[3.030s] reading manifest file '../../build/my_listener_package/my_listener_package.egg-info/SOURCES.txt'
+[3.032s] writing manifest file '../../build/my_listener_package/my_listener_package.egg-info/SOURCES.txt'
+[3.032s] running build
+[3.033s] running build_py
+[3.035s] running install
+[3.045s] running install_lib
+[3.073s] running install_data
+[3.075s] running install_egg_info
+[3.103s] removing '/home/uiabot/uiabot_ws/install/my_listener_package/lib/python3.12/site-packages/my_listener_package-0.0.0-py3.12.egg-info' (and everything under it)
+[3.103s] Copying ../../build/my_listener_package/my_listener_package.egg-info to /home/uiabot/uiabot_ws/install/my_listener_package/lib/python3.12/site-packages/my_listener_package-0.0.0-py3.12.egg-info
+[3.106s] running install_scripts
+[3.296s] Installing cmd_vel_listener script to /home/uiabot/uiabot_ws/install/my_listener_package/lib/my_listener_package
+[3.297s] writing list of installed files to '/home/uiabot/uiabot_ws/build/my_listener_package/install.log'
+[3.440s] Invoked command in '/home/uiabot/uiabot_ws/src/my_listener_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/my_listener_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/my_listener_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/my_listener_package build --build-base /home/uiabot/uiabot_ws/build/my_listener_package/build install --record /home/uiabot/uiabot_ws/build/my_listener_package/install.log --single-version-externally-managed install_data
