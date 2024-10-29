@@ -1,3 +1,38 @@
+<<<<<<< HEAD
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/robot_core.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/lidar.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/inertial_macros.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/AssemUiAminibot2 .STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/Motor.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/SupportWheelBracket_v03.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/robot.urdf.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/UiAFullWafflePlate.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/ros2_control.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/RPLidarCasingV3_Wcut.STL
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/gazebo_control.xacro
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch/launch_sim.launch.py
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/worlds/empty.world
+/home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+/home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/path.sh
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/path.dsv
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.bash
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.sh
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.zsh
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.dsv
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/package.dsv
+/home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+/home/uiabot/uiabot_ws/install/robot_description/share/robot_description/package.xml
+=======
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/my_controllers.yaml
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
@@ -33,3 +68,4 @@
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
 /home/devtex/uiabot_ws/install/robot_description/share/robot_description/package.xml
+>>>>>>> refs/remotes/origin/master

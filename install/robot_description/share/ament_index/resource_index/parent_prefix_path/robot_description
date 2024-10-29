@@ -1,1 +1,1 @@
-/home/devtex/uiabot_ws/install/uiabot:/home/devtex/uiabot_ws/install/robot_description:/home/devtex/uiabot_ws/install/my_publisher_package:/home/devtex/uiabot_ws/install/my_listener_package:/home/devtex/uiabot_ws/install/lidar_package:/opt/ros/humble
+/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy
