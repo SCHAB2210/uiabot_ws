@@ -1,0 +1,15 @@
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/ament_index/resource_index/package_run_dependencies/joint_states_publisher
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/ament_index/resource_index/parent_prefix_path/joint_states_publisher
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/environment/ament_prefix_path.sh
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/environment/ament_prefix_path.dsv
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/environment/path.sh
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/environment/path.dsv
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/local_setup.bash
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/local_setup.sh
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/local_setup.zsh
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/local_setup.dsv
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/package.dsv
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/ament_index/resource_index/packages/joint_states_publisher
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/cmake/joint_states_publisherConfig.cmake
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/cmake/joint_states_publisherConfig-version.cmake
+/home/uiabot/uiabot_ws/install/joint_states_publisher/share/joint_states_publisher/package.xml

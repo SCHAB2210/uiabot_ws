@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rsp-launch
+Version: 0.0.1
+Summary: Package for launching robot visualization with URDF and sensor nodes.
+Maintainer: Your Name
+Maintainer-email: your.email@example.com
+License: License Declaration

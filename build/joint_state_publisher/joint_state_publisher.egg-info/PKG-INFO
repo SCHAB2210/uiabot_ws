@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: joint-state-publisher
+Version: 0.0.1
+Summary: Custom joint state publisher for ROS 2.
+Maintainer: Your Name
+Maintainer-email: your.email@example.com
+License: License Declaration

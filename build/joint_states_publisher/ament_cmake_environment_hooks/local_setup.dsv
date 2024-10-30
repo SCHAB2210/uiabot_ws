@@ -1,0 +1,2 @@
+source;share/joint_states_publisher/environment/ament_prefix_path.sh
+source;share/joint_states_publisher/environment/path.sh

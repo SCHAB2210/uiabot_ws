@@ -1,0 +1,13 @@
+setup.cfg
+setup.py
+../../build/rsp_launch/rsp_launch.egg-info/PKG-INFO
+../../build/rsp_launch/rsp_launch.egg-info/SOURCES.txt
+../../build/rsp_launch/rsp_launch.egg-info/dependency_links.txt
+../../build/rsp_launch/rsp_launch.egg-info/requires.txt
+../../build/rsp_launch/rsp_launch.egg-info/top_level.txt
+../../build/rsp_launch/rsp_launch.egg-info/zip-safe
+launch/rsp.launch.py
+rsp_launch/__init__.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

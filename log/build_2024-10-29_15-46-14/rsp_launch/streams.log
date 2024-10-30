@@ -1,0 +1,31 @@
+[1.694s] Invoking command in '/home/uiabot/uiabot_ws/src/rsp_launch': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/rsp_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rsp_launch build --build-base /home/uiabot/uiabot_ws/build/rsp_launch/build install --record /home/uiabot/uiabot_ws/build/rsp_launch/install.log --single-version-externally-managed install_data
+[2.148s] running egg_info
+[2.149s] creating ../../build/rsp_launch/rsp_launch.egg-info
+[2.176s] writing ../../build/rsp_launch/rsp_launch.egg-info/PKG-INFO
+[2.177s] writing dependency_links to ../../build/rsp_launch/rsp_launch.egg-info/dependency_links.txt
+[2.177s] writing requirements to ../../build/rsp_launch/rsp_launch.egg-info/requires.txt
+[2.177s] writing top-level names to ../../build/rsp_launch/rsp_launch.egg-info/top_level.txt
+[2.177s] writing manifest file '../../build/rsp_launch/rsp_launch.egg-info/SOURCES.txt'
+[2.232s] reading manifest file '../../build/rsp_launch/rsp_launch.egg-info/SOURCES.txt'
+[2.233s] writing manifest file '../../build/rsp_launch/rsp_launch.egg-info/SOURCES.txt'
+[2.233s] running build
+[2.233s] running build_py
+[2.234s] creating /home/uiabot/uiabot_ws/build/rsp_launch/build
+[2.234s] creating /home/uiabot/uiabot_ws/build/rsp_launch/build/lib
+[2.234s] creating /home/uiabot/uiabot_ws/build/rsp_launch/build/lib/rsp_launch
+[2.234s] copying rsp_launch/__init__.py -> /home/uiabot/uiabot_ws/build/rsp_launch/build/lib/rsp_launch
+[2.235s] running install
+[2.245s] running install_lib
+[2.271s] creating /home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages/rsp_launch
+[2.271s] copying /home/uiabot/uiabot_ws/build/rsp_launch/build/lib/rsp_launch/__init__.py -> /home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages/rsp_launch
+[2.272s] byte-compiling /home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages/rsp_launch/__init__.py to __init__.cpython-312.pyc
+[2.272s] running install_data
+[2.273s] creating /home/uiabot/uiabot_ws/install/rsp_launch/share/rsp_launch/launch
+[2.273s] copying launch/rsp.launch.py -> /home/uiabot/uiabot_ws/install/rsp_launch/share/rsp_launch/launch
+[2.273s] creating /home/uiabot/uiabot_ws/install/rsp_launch/share/rsp_launch/description
+[2.273s] creating /home/uiabot/uiabot_ws/install/rsp_launch/share/rsp_launch/config
+[2.273s] running install_egg_info
+[2.305s] Copying ../../build/rsp_launch/rsp_launch.egg-info to /home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages/rsp_launch-0.0.1-py3.12.egg-info
+[2.306s] running install_scripts
+[2.500s] writing list of installed files to '/home/uiabot/uiabot_ws/build/rsp_launch/install.log'
+[2.587s] Invoked command in '/home/uiabot/uiabot_ws/src/rsp_launch' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/rsp_launch/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/rsp_launch/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/rsp_launch build --build-base /home/uiabot/uiabot_ws/build/rsp_launch/build install --record /home/uiabot/uiabot_ws/build/rsp_launch/install.log --single-version-externally-managed install_data

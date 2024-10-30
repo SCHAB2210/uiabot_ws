@@ -1,0 +1,33 @@
+[2.670s] Invoking command in '/home/uiabot/uiabot_ws/src/joint_state_publisher': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/joint_state_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joint_state_publisher build --build-base /home/uiabot/uiabot_ws/build/joint_state_publisher/build install --record /home/uiabot/uiabot_ws/build/joint_state_publisher/install.log --single-version-externally-managed install_data
+[3.151s] running egg_info
+[3.152s] creating ../../build/joint_state_publisher/joint_state_publisher.egg-info
+[3.182s] writing ../../build/joint_state_publisher/joint_state_publisher.egg-info/PKG-INFO
+[3.182s] writing dependency_links to ../../build/joint_state_publisher/joint_state_publisher.egg-info/dependency_links.txt
+[3.183s] writing entry points to ../../build/joint_state_publisher/joint_state_publisher.egg-info/entry_points.txt
+[3.183s] writing requirements to ../../build/joint_state_publisher/joint_state_publisher.egg-info/requires.txt
+[3.184s] writing top-level names to ../../build/joint_state_publisher/joint_state_publisher.egg-info/top_level.txt
+[3.184s] writing manifest file '../../build/joint_state_publisher/joint_state_publisher.egg-info/SOURCES.txt'
+[3.245s] reading manifest file '../../build/joint_state_publisher/joint_state_publisher.egg-info/SOURCES.txt'
+[3.246s] writing manifest file '../../build/joint_state_publisher/joint_state_publisher.egg-info/SOURCES.txt'
+[3.246s] running build
+[3.246s] running build_py
+[3.247s] creating /home/uiabot/uiabot_ws/build/joint_state_publisher/build
+[3.247s] creating /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib
+[3.249s] creating /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib/joint_state_publisher
+[3.250s] copying joint_state_publisher/joint_state_publisher.py -> /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib/joint_state_publisher
+[3.250s] copying joint_state_publisher/__init__.py -> /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib/joint_state_publisher
+[3.250s] running install
+[3.258s] running install_lib
+[3.286s] creating /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher
+[3.287s] copying /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib/joint_state_publisher/joint_state_publisher.py -> /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher
+[3.287s] copying /home/uiabot/uiabot_ws/build/joint_state_publisher/build/lib/joint_state_publisher/__init__.py -> /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher
+[3.287s] byte-compiling /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher/joint_state_publisher.py to joint_state_publisher.cpython-312.pyc
+[3.288s] byte-compiling /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher/__init__.py to __init__.cpython-312.pyc
+[3.289s] running install_data
+[3.289s] creating /home/uiabot/uiabot_ws/install/joint_state_publisher/share/joint_state_publisher/launch
+[3.289s] running install_egg_info
+[3.319s] Copying ../../build/joint_state_publisher/joint_state_publisher.egg-info to /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages/joint_state_publisher-0.0.1-py3.12.egg-info
+[3.320s] running install_scripts
+[3.537s] Installing joint_state_publisher script to /home/uiabot/uiabot_ws/install/joint_state_publisher/lib/joint_state_publisher
+[3.538s] writing list of installed files to '/home/uiabot/uiabot_ws/build/joint_state_publisher/install.log'
+[3.740s] Invoked command in '/home/uiabot/uiabot_ws/src/joint_state_publisher' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/joint_state_publisher/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/joint_state_publisher/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/joint_state_publisher build --build-base /home/uiabot/uiabot_ws/build/joint_state_publisher/build install --record /home/uiabot/uiabot_ws/build/joint_state_publisher/install.log --single-version-externally-managed install_data

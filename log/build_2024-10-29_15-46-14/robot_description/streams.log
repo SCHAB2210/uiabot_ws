@@ -1,0 +1,70 @@
+[0.067s] Invoking command in '/home/uiabot/uiabot_ws/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/uiabot/uiabot_ws/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/uiabot/uiabot_ws/install/robot_description
+[0.264s] -- The C compiler identification is GNU 13.2.0
+[0.396s] -- The CXX compiler identification is GNU 13.2.0
+[0.424s] -- Detecting C compiler ABI info
+[0.641s] -- Detecting C compiler ABI info - done
+[0.663s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.663s] -- Detecting C compile features
+[0.664s] -- Detecting C compile features - done
+[0.686s] -- Detecting CXX compiler ABI info
+[0.919s] -- Detecting CXX compiler ABI info - done
+[0.934s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.934s] -- Detecting CXX compile features
+[0.935s] -- Detecting CXX compile features - done
+[0.940s] -- Found ament_cmake: 2.5.2 (/opt/ros/jazzy/share/ament_cmake/cmake)
+[1.270s] -- Found Python3: /usr/bin/python3 (found version "3.12.3") found components: Interpreter 
+[1.490s] -- Found ament_lint_auto: 0.17.1 (/opt/ros/jazzy/share/ament_lint_auto/cmake)
+[1.730s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.736s] -- Added test 'flake8' to check Python code syntax and style conventions
+[1.736s] -- Configured 'flake8' exclude dirs and/or files: 
+[1.737s] -- Added test 'lint_cmake' to check CMake code style
+[1.738s] -- Added test 'pep257' to check Python code against some of the docstring style conventions in PEP 257
+[1.741s] -- Added test 'xmllint' to check XML markup files
+[1.744s] -- Configuring done (1.7s)
+[1.749s] -- Generating done (0.0s)
+[1.750s] -- Build files have been written to: /home/uiabot/uiabot_ws/build/robot_description
+[1.761s] Invoked command in '/home/uiabot/uiabot_ws/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake /home/uiabot/uiabot_ws/src/robot_description -DCMAKE_INSTALL_PREFIX=/home/uiabot/uiabot_ws/install/robot_description
+[1.763s] Invoking command in '/home/uiabot/uiabot_ws/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/uiabot/uiabot_ws/build/robot_description -- -j4 -l4
+[1.839s] Invoked command in '/home/uiabot/uiabot_ws/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/uiabot/uiabot_ws/build/robot_description -- -j4 -l4
+[1.881s] Invoking command in '/home/uiabot/uiabot_ws/build/robot_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/uiabot/uiabot_ws/build/robot_description
+[1.895s] -- Install configuration: ""
+[1.895s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config
+[1.895s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config/my_controllers.yaml
+[1.895s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config/empty.yaml
+[1.896s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/config/uiabot_config.rviz
+[1.896s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description
+[1.896s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/robot_core.xacro
+[1.896s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/lidar.xacro
+[1.896s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/inertial_macros.xacro
+[1.897s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/AssemUiAminibot2 .STL
+[2.016s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/Motor.STL
+[2.018s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/RP-lidar-A1.STL
+[2.050s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/MotorBracket.STL
+[2.051s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/SupportWheelBracket_v03.STL
+[2.051s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/robot.urdf.xacro
+[2.051s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/UiAFullWafflePlate.STL
+[2.068s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/ros2_control.xacro
+[2.068s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/RPLidarCasingV3_Wcut.STL
+[2.072s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/description/gazebo_control.xacro
+[2.072s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch
+[2.073s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch/rplidar.launch.py
+[2.073s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch/launch_sim.launch.py
+[2.073s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/launch/rsp.launch.py
+[2.073s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/worlds
+[2.073s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/worlds/empty.world
+[2.074s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/package_run_dependencies/robot_description
+[2.074s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/parent_prefix_path/robot_description
+[2.074s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.sh
+[2.074s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/ament_prefix_path.dsv
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/path.sh
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/environment/path.dsv
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.bash
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.sh
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.zsh
+[2.075s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/local_setup.dsv
+[2.076s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/package.dsv
+[2.076s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/ament_index/resource_index/packages/robot_description
+[2.076s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig.cmake
+[2.076s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/cmake/robot_descriptionConfig-version.cmake
+[2.076s] -- Installing: /home/uiabot/uiabot_ws/install/robot_description/share/robot_description/package.xml
+[2.080s] Invoked command in '/home/uiabot/uiabot_ws/build/robot_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/uiabot/uiabot_ws/install/rsp_launch:/home/uiabot/uiabot_ws/install/my_publisher_package:/home/uiabot/uiabot_ws/install/my_listener_package:/home/uiabot/uiabot_ws/install/lidar_package:/home/uiabot/uiabot_ws/install/launch_package:/home/uiabot/ros2_ws/install/robot_keyboard_control:/home/uiabot/ros2_ws/install/my_publisher_package:/home/uiabot/ros2_ws/install/my_listener_package:/home/uiabot/ros2_ws/install/esp32_com:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/uiabot/uiabot_ws/build/robot_description

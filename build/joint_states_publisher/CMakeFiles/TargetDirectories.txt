@@ -1,0 +1,9 @@
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/uninstall.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/joint_states_publisher_uninstall.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/test.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/edit_cache.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/rebuild_cache.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/list_install_components.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/install.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/install/local.dir
+/home/uiabot/uiabot_ws/build/joint_states_publisher/CMakeFiles/install/strip.dir

@@ -1,0 +1,21 @@
+[2.621s] Invoking command in '/home/uiabot/uiabot_ws/src/lidar_package': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/lidar_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_package build --build-base /home/uiabot/uiabot_ws/build/lidar_package/build install --record /home/uiabot/uiabot_ws/build/lidar_package/install.log --single-version-externally-managed install_data
+[3.097s] running egg_info
+[3.131s] writing ../../build/lidar_package/lidar_package.egg-info/PKG-INFO
+[3.132s] writing dependency_links to ../../build/lidar_package/lidar_package.egg-info/dependency_links.txt
+[3.133s] writing entry points to ../../build/lidar_package/lidar_package.egg-info/entry_points.txt
+[3.134s] writing requirements to ../../build/lidar_package/lidar_package.egg-info/requires.txt
+[3.134s] writing top-level names to ../../build/lidar_package/lidar_package.egg-info/top_level.txt
+[3.192s] reading manifest file '../../build/lidar_package/lidar_package.egg-info/SOURCES.txt'
+[3.194s] writing manifest file '../../build/lidar_package/lidar_package.egg-info/SOURCES.txt'
+[3.194s] running build
+[3.195s] running build_py
+[3.195s] running install
+[3.212s] running install_lib
+[3.240s] running install_data
+[3.243s] running install_egg_info
+[3.271s] removing '/home/uiabot/uiabot_ws/install/lidar_package/lib/python3.12/site-packages/lidar_package-0.0.0-py3.12.egg-info' (and everything under it)
+[3.271s] Copying ../../build/lidar_package/lidar_package.egg-info to /home/uiabot/uiabot_ws/install/lidar_package/lib/python3.12/site-packages/lidar_package-0.0.0-py3.12.egg-info
+[3.273s] running install_scripts
+[3.495s] Installing lidar_node script to /home/uiabot/uiabot_ws/install/lidar_package/lib/lidar_package
+[3.496s] writing list of installed files to '/home/uiabot/uiabot_ws/build/lidar_package/install.log'
+[3.665s] Invoked command in '/home/uiabot/uiabot_ws/src/lidar_package' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/uiabot/uiabot_ws/build/lidar_package/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/uiabot/uiabot_ws/install/lidar_package/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/lidar_package build --build-base /home/uiabot/uiabot_ws/build/lidar_package/build install --record /home/uiabot/uiabot_ws/build/lidar_package/install.log --single-version-externally-managed install_data
